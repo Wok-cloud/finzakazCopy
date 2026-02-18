@@ -275,3 +275,14 @@ cursor:default;
 .product-tile_name {
        height: 75px;
 }
+
+
+
+
+@media (max-width: 875px) {
+
+  .cofeandtea {
+	display: none;
+  }
+
+}
